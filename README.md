@@ -696,8 +696,6 @@ Preventative controls encompass the AWS CAF Security Perspective capabilities of
 
 On emr by default, each cluster writes log files on the master node. These are written to the /mnt/var/log/ directory.
 
-9980016303
-
 Amazon SageMaker Build-in algorithms can stream dataset directly from S3 using Pipe Mode to users' training instances instead of data being downloaded first. This mode is unlike File mode, which downloads data to the local Amazon Elastic Block Store (EBS) volume before starting the training.
 
 ￼
